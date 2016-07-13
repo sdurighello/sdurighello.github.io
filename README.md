@@ -1,2 +1,2 @@
 # caisepolente.github.io
-MEAN.JA aficionados
+MEAN.JS aficionados
