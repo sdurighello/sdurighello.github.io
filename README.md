@@ -1,2 +1,2 @@
 # caisepolente.github.io
-MEAN.JS aficionados
+This is my personal portfolio website
