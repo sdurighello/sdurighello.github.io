@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5addbd8a-d9ea-4ef3-9fa7-81a63540c7fa" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="caisepolente.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -245,7 +244,7 @@
       <workItem from="1474089131530" duration="323000" />
       <workItem from="1474182798509" duration="76000" />
       <workItem from="1474621568319" duration="1109000" />
-      <workItem from="1474622855426" duration="100000" />
+      <workItem from="1474622855426" duration="106000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1468395979968</created>
@@ -387,11 +386,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474622732325</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="updated links and added gooseboard">
+      <created>1474622958926</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1474622958926</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22894000" />
+    <option name="totallyTimeSpent" value="22900000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1436" height="877" extended-state="6" />
